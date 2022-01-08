@@ -1,2 +1,3 @@
-# epic-spotify-api-caller
-Practice calling the Spotify API with vanilla JavaScript
+# spotify-api-practice
+
+Practice calling Spotify API elements with vanilla JavaScript
